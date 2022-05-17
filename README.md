@@ -1,3 +1,3 @@
-I develop and maintain the Rcpp Machine Learning Library, featuring fast Non-negative Matrix Factorization and clustering algorithms. Please email me if you have questions about how to use NMF in your work or suggestions for improving our tools.
+I develop and maintain the Rcpp Machine Learning Library, including fast Non-negative Matrix Factorization (NMF) and divisive clustering. Please email me if you have suggestions or questions about how to use NMF in your work.
 
-My goal is to further optimize and expand NMF as a method and promote widespread use of NMF in bioinformatics tools and beyond.
+My goal is to continue developing fast and simple machine learning methods with application to bioinformatics and beyond.
