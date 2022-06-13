@@ -1,1 +1,1 @@
-I develop fast Non-negative Matrix Factorization algorithms for application in bioinformatics and beyond. Special interests include single-cell experiment dimensional reduction and integration, genome/phenome meta-association, and novel approaches to model regularization.
+I develop fast Non-negative Matrix Factorization algorithms for application in bioinformatics and beyond. Special interests include single-cell experiment dimensional reduction and integration, hybrid NNLS/graph-based learning, genome/phenome meta-association, and novel approaches to model regularization.
