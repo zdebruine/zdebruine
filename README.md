@@ -2,11 +2,11 @@ My lab develops fast Non-negative Matrix Factorization algorithms for applicatio
 
 Ongoing C++ library development:
 * Sparse Run-length Encoding for compressed storage of discrete sparse matrices
-* Out-of-core dimension reduction with NMF
-* New NMF methods and weighting algorithms
+* Out-of-core dimension reduction with Non-negative Matrix Factorization
+* New Non-negative Matrix Factorization methods and weighting algorithms
 
 Ongoing R package development:
-* A new "Seurat" object class occupying 10x less space in memory, and able to hold indefinitely many cells
+* A new "Seurat" object class occupying 10x less space in memory, and able to hold indefinitely many samples
 * Fast and scalable spatially-aware dimensional reduction
-* Graph-regularization for more aligned joint NMF models to initialize LNMF
+* Graph-regularized Non-negative Matrix Factorization
 * Integrative transfer learning with linked Non-negative Least Squares projections
